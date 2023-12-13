@@ -1,5 +1,4 @@
 EcoScan 🌍🔍
-
 EcoScan is an innovative solution designed to simplify the recycling process by utilizing image recognition technology. This project aims to help users identify the correct recycling category for various items. By scanning an item, users can quickly determine whether it is recyclable, compostable, or needs special disposal.
 
 Features
@@ -28,7 +27,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/EcoScan.git
+git clone https://github.com/onurat/1.618/tree/main/EcoScan.git
 Install dependencies:
 
 bash
@@ -44,6 +43,9 @@ Open your browser and navigate to http://localhost:3000.
 
 Contributing
 If you'd like to contribute to EcoScan, please follow our Contribution Guidelines.
+
+GitHub Repository
+Find us on GitHub.
 
 Acknowledgments
 Special thanks to contributors who have dedicated their time and effort to improve EcoScan. Feel free to reach out to us with any questions or issues. Happy recycling! 🌱♻️
