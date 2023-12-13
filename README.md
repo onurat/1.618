@@ -1,4 +1,5 @@
 EcoScan 🌍🔍
+
 EcoScan is an innovative solution designed to simplify the recycling process by utilizing image recognition technology. This project aims to help users identify the correct recycling category for various items. By scanning an item, users can quickly determine whether it is recyclable, compostable, or needs special disposal.
 
 Features
